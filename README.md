@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=whoami;Wellington+Lira+de+Melo;role%3A+Security+Administrator;grep+-r+%22ISO27001%2C+LGPD%22+%2Fskills;status%3A+securing+the+financial+sector..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=whoami;Wellington+Lira+de+Melo;role%3A+Security+Administrator;grep+-r+%22ISO27001%2C+LGPD%22+%2Fskills;status%3A+defending+systems+24%2F7..." alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=wellingtonlira826&color=00FF41&style=flat-square&label=connections)
 
@@ -10,7 +10,7 @@
 root@wellingtonlira826:~$ cat about.txt
 ```
 
-> Security Administrator atuando no setor financeiro (Banco Pan).
+> Security Administrator focado em proteger infraestrutura crítica.
 > Uso código para automatizar controles, gerar evidências de conformidade
 > e reduzir trabalho manual — não como fim em si.
 >
